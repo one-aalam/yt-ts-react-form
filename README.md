@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# @ts-react/form App (for the YT video)
+
+@ts-react/form handles the boilerplate involved when building forms using zod and react-hook-form without sacrificing customizability.
+
+To know more about it head over to the following YT video(s)
+[![Win forms with ts-react-form](https://img.youtube.com/vi/NmibB5p8hUI/0.jpg)](https://www.youtube.com/watch?v=NmibB5p8hUI)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
